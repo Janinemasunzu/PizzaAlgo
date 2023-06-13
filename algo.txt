@@ -2,3 +2,4 @@ Order from Dominos
 A delivery order
 Waiting for delivery 
 Pay for the delivered order
+tip the driver
