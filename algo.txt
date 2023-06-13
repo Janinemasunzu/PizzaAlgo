@@ -3,3 +3,5 @@ A delivery order
 Waiting for delivery 
 Pay for the delivered order
 tip the driver
+eat the pizza 
+put the leftover in the fridge
